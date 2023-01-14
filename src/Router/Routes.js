@@ -15,6 +15,7 @@ const router = createBrowserRouter([
             {
                 path: '/',
                 element: <Homepage />,
+                loader: () => fetch('http://localhost:8000/banner'),
 
             },
             {
