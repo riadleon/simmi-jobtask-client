@@ -15,7 +15,7 @@ const Service = () => {
                 <div className="container p-6 mx-auto space-y-8">
                     <div className="space-y-2 text-center">
                         <p className="font-serif lg:text-5xl text-warning font-bold">phoneGPT Services</p>
-                        <h2 className="lg:text-2xl font-bold text-primary">ChatGPT is a powerful generator of human-like replies to any inputs. Thanks to the GPT-3.5 language model, it is exceptionally good at understanding the context of a chat.</h2>
+                        <h2 className="lg:text-2xl font-bold ">ChatGPT is a powerful generator of human-like replies to any inputs. Thanks to the GPT-3.5 language model, it is exceptionally good at understanding the context of a chat.</h2>
 
                     </div>
                     <div className="grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4 items-center">
