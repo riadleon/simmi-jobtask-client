@@ -1,0 +1,22 @@
+[
+    {
+        "tittle": "Building website with phoneGPT",
+        "description": "ChatGPT is one of a class of generative AI programs that can produce images, video and audio, make arguments, summarise books, tell jokes, write code, and generally be useful to people.It is built on top of OpenAI's GPT-3 family of large language models, and is fine-tuned (an approach to transfer learning) with both supervised and reinforcement learning techniques.Thats how it can be used as web developer. yes you are hearing right. So the job of the web developer is in stake?",
+        "image": "https://i.ytimg.com/vi/b_3qa0uYVb8/maxresdefault.jpg"
+    },
+    {
+        "tittle": "Do your graphics design",
+        "description": "Chat GPT got to a million users in only five days. To put that into context, Facebook took ten months, and Netflix took three years to reach a million users. [source] That speaks to the incredible usefulness of these tools. Soon, it will be hard to imagine designing without them.Not only are AI tools like Chat GPT going to improve your process, but they’re also going to improve the user experience of text interfaces everywhere, starting with chatbots and application micro-copy. If you don’t learn how these tools work, you won’t be able to take advantage of the innovation possibilities in these AI technologies.Chat GPT feels like having a personal AI assistant. I’ve only used the tool for a month, but it has already become a top tool for my design process",
+        "image": "https://i.ytimg.com/vi/qHbrV1SJv0k/maxresdefault.jpg"
+    },
+    {
+        "tittle": "Writing Assistant",
+        "description": "This is the most obvious one, but Chat GPT is very good at writing. The tool can proofread like Grammarly and write creative responses when prompted. You can say, “Write me a _______,” and it will do it. Try telling it to “Write a love poem about users” if you want an instant smile. You even can tell it: “Write a blog post about AI and subtly push for its adoption.” It’s incredible how it can instantly shift perspective and motivation.",
+        "image": "https://i.ytimg.com/vi/JW2VcCmRed8/maxresdefault.jpg"
+    },
+    {
+        "tittle": "As a Advisor",
+        "description": "Before Chat GPT, you had to ask your product manager to review your work to uncover potential blindspots and biases in your thinking. “What are the potential biases for a page that gives FAQs about creating an account?” to check your thinking before you go live with something. You can even describe an experience, and Chat GPT will list possible ethical consequences…which is the least AI can do since it brings a whole new set of ethical issues to the table.",
+        "image": "https://s10251.pcdn.co/wp-content/uploads/2021/08/2017-talk-talk-hesham-ali-smaller.png"
+    }
+]

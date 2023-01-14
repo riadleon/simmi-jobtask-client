@@ -17,7 +17,7 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-                <Link to='/'>phoneGPT</Link>
+                <Link className='text-3xl  bg-primary' to='/'>phoneGPT</Link>
             </div>
             <div className="navbar-center hidden lg:flex lg:justify-between">
                 <ul className="menu menu-horizontal px-1">
