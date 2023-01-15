@@ -5,7 +5,7 @@ const Service = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:8000/service')
+        fetch('https://simmi-jobtask-server.vercel.app/service')
             .then(res => res.json())
             .then(data => setServices(data))
     }, []);

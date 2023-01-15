@@ -16,13 +16,13 @@ const router = createBrowserRouter([
             {
                 path: '/',
                 element: <Homepage />,
-                loader: () => fetch('http://localhost:8000/banner'),
+                loader: () => fetch('https://simmi-jobtask-server.vercel.app/banner'),
 
             },
             {
                 path: '/service/:id',
                 element: <DetailService></DetailService>,
-                loader: ({ params }) => fetch(`http://localhost:8000/service/${params.id}`),
+                loader: ({ params }) => fetch(`https://simmi-jobtask-server.vercel.app/service/${params.id}`),
 
             },
             {
