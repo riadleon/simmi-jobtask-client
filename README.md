@@ -1,3 +1,10 @@
+*****************************************************
+
+*Live Site: https://simmi-jobtask-client.vercel.app/
+*Server side Repo: https://github.com/riadleon/simmi-jobtask-server
+
+************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
