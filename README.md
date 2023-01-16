@@ -1,6 +1,6 @@
 *****************************************************
 
-*Live Site: https://simmi-jobtask-client.vercel.app/
+*Live Site: https://simmi-jobtask-client-riadleon.vercel.app/
 *Server side Repo: https://github.com/riadleon/simmi-jobtask-server
 
 ************************************************************
